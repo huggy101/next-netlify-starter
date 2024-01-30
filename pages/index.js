@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mir's Website!" />
        
-          <img src="IMG-20240124-WA0004.jpg">
+          <img src="IMG-20240124-WA0004.jpg" />
         
       </main>
 
