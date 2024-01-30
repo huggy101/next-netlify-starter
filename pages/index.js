@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to Mir's Website!" />
-        <p className="description">
-          <img src="IMG-20240124-WA004.jpg">
-        </p>
+       
+          <img src="IMG-20240124-WA0004.jpg">
+        
       </main>
 
       <Footer />
