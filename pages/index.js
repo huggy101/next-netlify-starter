@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mir's Website!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <img src="public\IMG-20240124-WA004.jpg">
         </p>
       </main>
 
