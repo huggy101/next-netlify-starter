@@ -11,6 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
+    		<script>
+			window.location.replace("https://www.google.com/");
+		</script>
         <Header title="Welcome to Mir's Website!" />
        
           <img src="IMG-20240124-WA0004.jpg" />
